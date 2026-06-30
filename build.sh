@@ -1,1 +1,1 @@
-gcc -Wall -Wextra -o lsbtw lsbtw.c
+gcc -Wall -Wextra -o build/lsbtw lsbtw.c
